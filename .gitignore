@@ -1,0 +1,4 @@
+db-backup/
+run-logs/
+*.sql
+*.ndjson

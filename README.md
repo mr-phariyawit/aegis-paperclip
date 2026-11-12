@@ -43,8 +43,6 @@ Mobile-first web party game based on the Thai viral game by เทพลีล�
 | `issues.json` | SDLC pipeline issues |
 | `routines.json` | Heartbeat, standup, security scan schedules |
 | `company-files/` | Agent instruction files (AGENTS.md, SOUL.md, etc.) |
-| `db-backup/` | PostgreSQL database snapshots |
-| `run-logs/` | Agent run transcripts (ndjson) |
 
 ## Restore
 
